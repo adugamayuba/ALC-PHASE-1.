@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">ALC Phase 1</string>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="track">Track: </string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="slack_username">Slack Username </string>
+
+    <string name="Value_track">Android</string>
+    <string name="Value_country">Nigeria</string>
+    <string name="Value_email">adugamayuba@gmail.com</string>
+    <string name="Value_phone_number">+2347011292614</string>
+    <string name="Value_slack_username"> "@"Abel</string>
+    <string name="todo">TODO</string>
 </resources>
